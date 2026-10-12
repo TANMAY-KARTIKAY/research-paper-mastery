@@ -66,6 +66,4 @@ The agent will automatically discover the skill and load relevant sections on de
 
 ---
 
-## ⚖️ License
 
-MIT License. See [LICENSE](LICENSE) for details.
